@@ -34,5 +34,6 @@ optional_subdirs = [
     "system/tools/*",
     "test/vts",
     "test/vts-testcase/*",
+    "vendor/*",
     "vendor/*/*",
 ]
